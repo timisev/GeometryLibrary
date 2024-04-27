@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeometryLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4579b2e4a12992d3024adb1f8066876465ad08f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeometryLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeometryLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
