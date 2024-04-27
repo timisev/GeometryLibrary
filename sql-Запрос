@@ -1,0 +1,4 @@
+SELECT p.Name, c.Name
+FROM Product AS p
+JOIN CategoryProduct AS cp ON p.ProductID = cp.ProductID
+JOIN Category AS c ON cp.CategoryID = c.CategoryID
